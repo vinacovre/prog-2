@@ -1,0 +1,9 @@
+public class Lab1 
+{
+	public static void main(String[] args)
+	{
+		int x;
+		x = 11/2;
+		system.out.println(""+x);
+	}
+}

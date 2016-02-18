@@ -8,7 +8,6 @@ public class Words
    {
       Dictionary webster = new Dictionary();
       
-      
 
       /*
       System.out.println("Number of pages: " + webster.getPages());
