@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class assignment_2 {
+	public static void main(String[] args) {
+		int i1, i2;
+		Scanner in = new Scanner(System.in);
+		i1 = in.nextInt();
+		i2 = in.nextInt();
+		
+	}
+}
